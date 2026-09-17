@@ -1,0 +1,14 @@
+index.html
+  h_baa31403498e0f 27-28
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "85e324e6c3fa369fcf1fbbf80c76346c65774572",
+  "prompts": {},
+  "humans": {
+    "h_baa31403498e0f": {
+      "author": "Somyanath_Mohanty <mohantysomyanath@gmail.com>"
+    }
+  }
+}
