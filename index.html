@@ -1,10 +1,9 @@
 <!doctype html>
 <html lang="en">
-  <!-- [Delete this comment] This file is the main file for the challenge. For the most part, you should be editing this file. -->
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>GreatFrontEnd Projects</title>
+    <title>Testimonial Card | GreatFrontEnd Projects</title>
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
@@ -19,10 +18,15 @@
     <div class="container">
       <figure class="testimonial-card">
         <figcaption class="testimonial-author">
-          <img
-            alt="author's profile picture"
-            src="./img/profile-thumbnail.png"
-          />
+          <picture>
+            <source srcset="img/profile-thumbnail.png" type="image/webp" />
+            <img
+              alt="Sarah Dole's profile picture"
+              src="./img/profile-thumbnail.png"
+              width="48"
+              height="48"
+            />
+          </picture>
           <div class="testimonial-author-info">
             <div class="testimonial-author-name">Sarah Dole</div>
             <div class="testimonial-author-handle">@sarahdole</div>
