@@ -1,0 +1,22 @@
+.gitignore
+  h_baa31403498e0f 1-138
+.vscode/settings.json
+  h_baa31403498e0f 1-3
+README.md
+  h_baa31403498e0f 1-152
+css/style.css
+  h_baa31403498e0f 1-102
+index.html
+  h_baa31403498e0f 1-41
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "ffcf1d28c84edf8aac9864cbcd97f2319337b262",
+  "prompts": {},
+  "humans": {
+    "h_baa31403498e0f": {
+      "author": "Somyanath_Mohanty <mohantysomyanath@gmail.com>"
+    }
+  }
+}
